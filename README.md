@@ -2,7 +2,7 @@
 <h3 align="left">I'm a student of systems analysis and development, passionate about technology and what it provides
     for society.</h3>
 
-- 👨‍💻I’m currently learning **Relacional databases, Spring-Boot, Hibernate, Java.**
+- 👨‍💻I’m currently learning **Relacional databases, Spring-Boot, Hibernate, Java and C#.**
 
 - 📫 How to reach me **dannyelbezerra@gmail.com**
 
